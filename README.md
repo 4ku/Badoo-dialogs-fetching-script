@@ -1,1 +1,3 @@
-# badoo-dialogs-fetching-script
+# Badoo dialogs fetching script  
+  
+## How to run  
