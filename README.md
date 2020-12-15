@@ -1,0 +1,1 @@
+# badoo-dialogs-fetching-script
